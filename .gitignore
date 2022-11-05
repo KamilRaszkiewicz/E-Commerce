@@ -1,0 +1,10 @@
+E-Commerce.API/bin
+E-Commerce.API/obj
+E-Commerce.Core/bin
+E-Commerce.Core/obj
+E-Commerce.Infrastructure/bin
+E-Commerce.Infrastructure/obj
+E-Commerce.Tests/bin
+E-Commerce.Tests/obj
+.vs
+
