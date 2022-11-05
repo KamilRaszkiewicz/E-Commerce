@@ -1,7 +1,7 @@
 using E_Commerce.API;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.ConfigureServices();
+builder.ConfigureServices();
 
 var app = builder.Build();
 app.MapGet("/", () => "Hello World!");

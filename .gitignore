@@ -1,7 +1,9 @@
 E-Commerce.API/bin
 E-Commerce.API/obj
-E-Commerce.Core/bin
-E-Commerce.Core/obj
+E-Commerce.App/bin
+E-Commerce.App/obj
+E-Commerce.Domain/bin
+E-Commerce.Domain/obj
 E-Commerce.Infrastructure/bin
 E-Commerce.Infrastructure/obj
 E-Commerce.Tests/bin

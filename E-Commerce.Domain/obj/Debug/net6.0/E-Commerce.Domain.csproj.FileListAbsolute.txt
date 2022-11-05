@@ -1,5 +1,0 @@
-C:\Users\Kamil\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\net6.0\E-Commerce.Domain.csproj.AssemblyReference.cache
-C:\Users\Kamil\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\net6.0\E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Kamil\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\net6.0\E-Commerce.Domain.AssemblyInfoInputs.cache
-C:\Users\Kamil\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\net6.0\E-Commerce.Domain.AssemblyInfo.cs
-C:\Users\Kamil\source\repos\E-Commerce\E-Commerce.Domain\obj\Debug\net6.0\E-Commerce.Domain.csproj.CoreCompileInputs.cache
